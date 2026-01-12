@@ -57,3 +57,8 @@ This will load the saved model and predict whether a sample transaction is fraud
 
 Make sure you have the credit card dataset file (`creditcard.csv`) in the `data/` folder before running `model.py`.
 
+<img width="872" height="509" alt="arpita_creditcard" src="https://github.com/user-attachments/assets/45ecdfe6-7270-4a77-a47e-53feb2a13fdc" />
+
+
+
+
